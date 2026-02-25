@@ -1,0 +1,15 @@
+﻿'Reverse Digits.exe' (Win32): Loaded 'C:\Users\user\source\repos\Reverse Digits\x64\Debug\Reverse Digits.exe'. Symbols loaded.
+'Reverse Digits.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. Symbol loading disabled by Include/Exclude setting.
+'Reverse Digits.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. Symbol loading disabled by Include/Exclude setting.
+'Reverse Digits.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. Symbol loading disabled by Include/Exclude setting.
+'Reverse Digits.exe' (Win32): Loaded 'C:\Windows\System32\apphelp.dll'. Symbol loading disabled by Include/Exclude setting.
+'Reverse Digits.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. Symbol loading disabled by Include/Exclude setting.
+'Reverse Digits.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. Symbol loading disabled by Include/Exclude setting.
+'Reverse Digits.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. Symbol loading disabled by Include/Exclude setting.
+'Reverse Digits.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. Symbol loading disabled by Include/Exclude setting.
+The thread 17332 has exited with code 0 (0x0).
+'Reverse Digits.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. Symbol loading disabled by Include/Exclude setting.
+'Reverse Digits.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. Symbol loading disabled by Include/Exclude setting.
+The thread 7692 has exited with code 0 (0x0).
+The thread 1820 has exited with code 0 (0x0).
+The program '[15648] Reverse Digits.exe' has exited with code 0 (0x0).
